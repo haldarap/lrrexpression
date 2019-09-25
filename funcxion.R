@@ -1,0 +1,1 @@
+my_mean<- sum(my_vector)/ length(my_vector)
